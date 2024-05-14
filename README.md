@@ -27,7 +27,7 @@ The study provides an essential, yet must-know baseline, and reveals several sur
 
 
 ## 📢News
-- [ ] **[May 14, 2024]** Preprint will be released.
+- [x] **[May 14, 2024]** [Preprint](https://arxiv.org/pdf/2405.07798) has been released.
 - [x] **[May 13, 2024]** Code has been released. Thanks for your star 😝.
 
 
