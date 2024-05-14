@@ -3,7 +3,7 @@
 <h2>FreeVA: Offline MLLM as Training-Free Video Assistant</h2> 
 
 
-<!-- [![arXiv](https://img.shields.io/badge/Arxiv-2311.15732-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2301.00184) -->
+[![arXiv](https://img.shields.io/badge/Arxiv-2405.07798-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.07798)
 
 #### [Wenhao Wu](https://whwu95.github.io/)
 
@@ -114,7 +114,7 @@ We extend our sincere gratitude to the following awesome projects:
 - [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT): Towards Detailed Video Understanding via Large Vision and Language Models
   
 
-<!-- ## BibTeX & Citation
+## BibTeX & Citation
 
 If you use our code in your research or wish to refer to the results, please star 🌟 this repo and use the following BibTeX 📑 entry.
 
@@ -122,7 +122,7 @@ If you use our code in your research or wish to refer to the results, please sta
 @article{FreeVA,
   title={FreeVA: Offline MLLM as Training-Free Video Assistant},
   author={Wu, Wenhao},
-  booktitle={arXiv preprint arXiv:2311.15732},
+  booktitle={arXiv preprint arXiv:2405.07798},
   year={2024}
-} -->
+}
 
