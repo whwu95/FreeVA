@@ -55,7 +55,7 @@ An illustration of (a) an overview of the image MLLM inference process and (b) o
 
 ## Running Video QA💬
 
-FreeVA can be applied to any image-based MLLM, and its core code is straightforward, simply involving a temporal aggregation. Please refer to [temporal_aggregation](https://github.com/whwu95/FreeVA/blob/92b9164f694e34edc7830d08ff2b233e7b14fb1d/llava/model/llava_arch.py#L148) for implementation details. 
+FreeVA can be applied to any image-based MLLM, and its core code is straightforward, simply involving a temporal aggregation. Please refer to [temporal_aggregation](./llava/model/llava_arch.py#L148) for implementation details. 
 
 Below, we provide guidance on running the code using LLaVA-1.5 as an example. 
 
