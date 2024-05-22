@@ -229,7 +229,7 @@ class LlavaMetaForCausalLM(ABC):
         else:
             image_features = self.encode_images(images).to(self.device)  # [T 576 D]
         
-        # whwu: unsqueeze for image_features
+        # unsqueeze for image_features
         image_features = self.temporal_aggregation(image_features)
         
 
