@@ -1,7 +1,7 @@
 CKPT_NAME="llava-v1.5-7b"
 num_frames=4
 model_path="ckpt/llava-v1.5-7b"
-GPT_Zero_Shot_QA="/bpfs/v2_mnt/VIS/wuwenhao/mllm_data/GPT_Zero_Shot_QA"
+GPT_Zero_Shot_QA="/mllm_data/GPT_Zero_Shot_QA"
 video_dir="${GPT_Zero_Shot_QA}/VideoChatGPT_Test_Videos"
 gt_file="${GPT_Zero_Shot_QA}/generic_qa.json"
 output_dir="output/Benchmark_Generic_QA/${CKPT_NAME}_u${num_frames}FRS"
