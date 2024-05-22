@@ -4,7 +4,7 @@
 
 </div>
 
-***
+
 
 
 Welcome to **FreeVA** - a plug-and-play, simple yet effective study exploring the utilization of existing image MLLMs as video conversational models in a training-free manner. ⚡The core code can be just one line!
