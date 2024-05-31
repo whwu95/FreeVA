@@ -211,7 +211,9 @@ class LlavaMetaForCausalLM(ABC):
                         else:
                             image_feature = image_feature.permute(0, 2, 1, 3, 4).contiguous()
                             image_feature = image_feature.flatten(0, 3)
-                        image_feature = torch.cat((base_image_feature, image_feature), dim=0)
+                        # image_feature = torch.cat((base_image_feature, image_feature), dim=0)
+                        # Using base feature only for LLaVA-1.6 to avoid extra tokens from high-resolution features.
+                        image_feature = base_image_feature  # [576 D]
                     else:
                         image_feature = image_feature[0]
                         if 'unpad' in mm_patch_merge_type:
