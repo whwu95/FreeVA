@@ -27,6 +27,7 @@ The study provides an essential, yet must-know baseline, and reveals several sur
 
 
 ## 📢News
+- [x] **[Jun 7, 2024]** FreeVA results for more MLLMs, such as [InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip), [InternVL](https://github.com/OpenGVLab/InternVL), and [Dense Connector](https://github.com/HJYao00/DenseConnector), are provided.
 - [x] **[May 14, 2024]** [Preprint](https://arxiv.org/pdf/2405.07798) has been released.
 - [x] **[May 13, 2024]** Code has been released. Thanks for your star 😝.
 
@@ -39,6 +40,8 @@ An illustration of (a) an overview of the image MLLM inference process and (b) o
 <img src="figs/pipeline.png" width="700" />
 
 <img src="figs/sota.png" width="700" />
+
+<img src="figs/ben.png" width="700" />
 
 <img src="figs/vis.png" width="700" />
 </div>
